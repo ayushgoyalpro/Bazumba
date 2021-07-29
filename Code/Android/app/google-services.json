@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038837793814",
+    "firebase_url": "https://bazumba-60e74.firebaseio.com",
+    "project_id": "bazumba-60e74",
+    "storage_bucket": "bazumba-60e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038837793814:android:7adf4865e335037e046137",
+        "android_client_info": {
+          "package_name": "com.ayush.bazumba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038837793814-hvn8bnlja0auc42sqiuqkvl78p7eb47j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayush.bazumba",
+            "certificate_hash": "3df925d84deadf868bab20c14037f0602d4a9ec2"
+          }
+        },
+        {
+          "client_id": "1038837793814-atntvfo8a61940fmqrha2j3ir46p6e2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQXpVv3Fcvgeclbgg20aNXvGpouI7fcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038837793814-atntvfo8a61940fmqrha2j3ir46p6e2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
